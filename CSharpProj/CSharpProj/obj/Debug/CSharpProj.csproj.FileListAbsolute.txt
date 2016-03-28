@@ -1,1 +1,6 @@
 C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe.config
+C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.exe
+C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\bin\Debug\CSharpProj.pdb
+C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.exe
+C:\Users\Dmitriy\Documents\git-repo\CSharpProj\CSharpProj\obj\Debug\CSharpProj.pdb
